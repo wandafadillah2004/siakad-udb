@@ -1,0 +1,1 @@
+"Gagal Tambah: Cannot add or update a child row: a foreign key constraint fails (`siakad_udb`.`mata_kuliah`, CONSTRAINT `mata_kuliah_ibfk_1` FOREIGN KEY (`kode_prodi`) REFERENCES `satuan_pendidikan` (`kode_perguruan_tinggi`))"
